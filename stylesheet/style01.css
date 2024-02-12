@@ -1644,7 +1644,7 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos],[data-aos][data-aos][data-a
 .fa-map-signs:before{content:"%"}
 .fa-pause:before{content:"%"}
 .fa-pause-circle:before{content:"%"}
-.fa-play:before{content:"play"}
+.fa-play:before{content:""}
 .fa-play-circle:before{content:""}
 .sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}
 .sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}
